@@ -1,0 +1,8 @@
+{
+  "name": "structure-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/semprebecker/structure-api.git",
+  "author": "RBecker22 <ravel.beckermhd@gmail.com>",
+  "license": "MIT"
+}
